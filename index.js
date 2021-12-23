@@ -18,7 +18,8 @@ import countPackages from './src/17/index.mjs'
 import fixFiles from './src/18/index.mjs'
 import learn from './src/19/index.mjs'
 import pangram from './src/20/index.mjs'
-import canCarry from './src/21/index.mjs';
+import canCarry from './src/21/index.mjs'
+import countDecorations from './src/22/index.mjs'
 
 (() => {
   console.log(contarOvejas([{ name: 'Noa', color: 'azul' }, { name: 'Euge', color: 'rojo' }, { name: 'Navidad', color: 'rojo' }, { name: 'Ki Na Ma', color: 'rojo' }]))
@@ -42,4 +43,33 @@ import canCarry from './src/21/index.mjs';
   console.log(learn(10, [2, 3, 8, 1, 4]))
   console.log(pangram('Extraño pan de col y kiwi se quemó bajo fugaz vaho'))
   console.log(canCarry(4, [[2, 5, 8], [3, 6, 10]]))
+  console.log(countDecorations({
+    value: 1,
+    left: {
+      value: 5,
+      left: {
+        value: 7,
+        left: {
+          value: 3,
+          left: null,
+          right: null
+        },
+        right: null
+      },
+      right: null
+    },
+    right: {
+      value: 6,
+      left: {
+        value: 5,
+        left: null,
+        right: null
+      },
+      right: {
+        value: 1,
+        left: null,
+        right: null
+      }
+    }
+  }))
 })()
