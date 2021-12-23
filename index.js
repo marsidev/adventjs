@@ -20,6 +20,7 @@ import learn from './src/19/index.mjs'
 import pangram from './src/20/index.mjs'
 import canCarry from './src/21/index.mjs'
 import countDecorations from './src/22/index.mjs'
+import canReconfigure from './src/23/index.mjs'
 
 (() => {
   console.log(contarOvejas([{ name: 'Noa', color: 'azul' }, { name: 'Euge', color: 'rojo' }, { name: 'Navidad', color: 'rojo' }, { name: 'Ki Na Ma', color: 'rojo' }]))
@@ -72,4 +73,5 @@ import countDecorations from './src/22/index.mjs'
       }
     }
   }))
+  console.log(canReconfigure('abcdefghijkl', 'lkjihgfedcba'))
 })()
