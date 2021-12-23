@@ -1,4 +1,4 @@
-# \#23 ¿Puedes reconfigurar las fábricas para no parar de crear regalos? ¿Puedes reconfigurar las fábricas para no parar de crear regalos?
+# \#23 ¿Puedes reconfigurar las fábricas para no parar de crear regalos? ¿Puedes reconfigurar las fábricas para no parar de crear regalos? 
 
 Estamos en la fábrica de Santa Claus 🎅 creando regalos como si no hubiera un mañana
 
