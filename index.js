@@ -22,6 +22,7 @@ import canCarry from './src/21/index.mjs'
 import countDecorations from './src/22/index.mjs'
 import canReconfigure from './src/23/index.mjs'
 import checkIsSameTree from './src/24/index.mjs'
+import canMouseEat from './src/25/index.mjs'
 
 console.log(contarOvejas([{ name: 'Noa', color: 'azul' }, { name: 'Euge', color: 'rojo' }, { name: 'Navidad', color: 'rojo' }, { name: 'Ki Na Ma', color: 'rojo' }]))
 console.log(listGifts('bici coche balón _playstation bici    coche   peluche'))
@@ -47,3 +48,4 @@ console.log(canCarry(4, [[2, 5, 8], [3, 6, 10]]))
 console.log(countDecorations({ value: 1, left: { value: 2, left: null, right: null }, right: { value: 3, left: null, right: null } }))
 console.log(canReconfigure('abcdefghijkl', 'lkjihgfedcba'))
 console.log(checkIsSameTree({ value: 1, left: { value: 2, left: null, right: null }, right: { value: 3, left: null, right: null } }, { value: 1, left: { value: 2, left: null, right: null }, right: { value: 3, left: null, right: null } }))
+console.log(canMouseEat('down', [[' ', ' ', ' '], [' ', ' ', 'm'], [' ', ' ', '*']]))
