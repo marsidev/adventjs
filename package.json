@@ -11,9 +11,9 @@
     "adventjs",
     "JavaScript"
   ],
-  "author": "marsigliadev",
+  "author": "marsidev",
   "license": "ISC",
-  "homepage": "https://github.com/marsigliadev/adventjs-solutions#readme",
+  "homepage": "https://github.com/marsidev/adventjs-solutions#readme",
   "type": "module",
   "devDependencies": {
     "eslint": "7.32.0",
