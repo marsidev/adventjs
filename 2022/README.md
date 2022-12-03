@@ -7,3 +7,4 @@ Here you can find my solutions for each puzzle. 😉
 | Chalenge | Problem              | Solution             |
 | -------- | -------------------- | -------------------- |
 | 1        | [Here](01/README.md) | [Here](01/index.mjs) |
+| 2        | [Here](02/README.md) | [Here](02/index.mjs) |
