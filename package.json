@@ -9,7 +9,8 @@
 		"lint": "eslint . --ext .js,.mjs,.ts,.mts",
 		"lint:fix": "eslint . --ext .js,.mjs,.ts,.mts --fix",
 		"tsc": "tsc",
-		"2021": "node 2021"
+		"2021": "node 2021",
+		"2022": "node 2022"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "latest",
