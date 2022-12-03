@@ -1,25 +1,34 @@
 {
-  "name": "adventjs-solutions",
-  "version": "1.0.0",
-  "description": "My solutions for AdventJS",
-  "main": "index.js",
-  "scripts": {
-    "git": "git add . && git commit -m",
-    "postgit": "git push --all"
-  },
-  "keywords": [
-    "adventjs",
-    "JavaScript"
-  ],
-  "author": "marsidev",
-  "license": "ISC",
-  "homepage": "https://github.com/marsidev/adventjs-solutions#readme",
-  "type": "module",
-  "devDependencies": {
-    "eslint": "7.32.0",
-    "eslint-config-standard": "16.0.3",
-    "eslint-plugin-import": "2.25.3",
-    "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "5.2.0"
-  }
+	"name": "adventjs",
+	"version": "2.0.0",
+	"main": "2021/index.js",
+	"author": "marsidev",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"lint": "eslint . --ext .js,.mjs,.ts,.mts",
+		"lint:fix": "eslint . --ext .js,.mjs,.ts,.mts --fix",
+		"tsc": "tsc",
+		"2021": "node 2021"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "latest",
+		"@typescript-eslint/parser": "latest",
+		"eslint": "latest",
+		"eslint-config-marsi": "latest",
+		"eslint-config-prettier": "latest",
+		"eslint-config-standard": "latest",
+		"eslint-import-resolver-typescript": "latest",
+		"eslint-plugin-import": "latest",
+		"eslint-plugin-n": "latest",
+		"eslint-plugin-promise": "latest",
+		"typescript": "4.9.3"
+	},
+	"pnpm": {
+		"peerDependencyRules": {
+			"ignoreMissing": [
+				"eslint-plugin-react"
+			]
+		}
+	}
 }
