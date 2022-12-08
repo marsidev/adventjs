@@ -3,6 +3,7 @@ import { countHours } from './02/index.mjs'
 import { distributeGifts } from './03/index.mjs'
 import { fitsInOneBox } from './04/index.mjs'
 import { getMaxGifts } from './05/index.mjs'
+import { createCube } from './06/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -20,3 +21,5 @@ console.log(
 )
 console.log()
 console.log('Reto 5: ', getMaxGifts([12, 3, 11, 5, 7], 20, 3))
+console.log()
+console.log('Reto 6: ', createCube(3))
