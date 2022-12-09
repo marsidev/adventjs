@@ -5,6 +5,7 @@ import { fitsInOneBox } from './04/index.mjs'
 import { getMaxGifts } from './05/index.mjs'
 import { createCube } from './06/index.mjs'
 import { getGiftsToRefill } from './07/index.mjs'
+import { checkPart } from './08/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -29,3 +30,5 @@ console.log(
 	'Reto 7: ',
 	getGiftsToRefill(['bici', 'coche', 'bici', 'bici'], ['coche', 'bici', 'muñeca', 'coche'], ['bici', 'pc', 'pc'])
 )
+console.log()
+console.log('Reto 8: ', checkPart('zzzoonzzz'))
