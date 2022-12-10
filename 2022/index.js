@@ -7,6 +7,7 @@ import { createCube } from './06/index.mjs'
 import { getGiftsToRefill } from './07/index.mjs'
 import { checkPart } from './08/index.mjs'
 import { countTime } from './09/index.mjs'
+import { checkJump } from './10/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -35,3 +36,5 @@ console.log()
 console.log('Reto 8: ', checkPart('zzzoonzzz'))
 console.log()
 console.log('Reto 9: ', countTime([0, 0, 1, 0, 0]))
+console.log()
+console.log('Reto 10: ', checkJump([1, 7, 3, 5]))
