@@ -1,15 +1,13 @@
 export function checkJump(heights) {
-	const peak = Math.max(...heights)
-	const peakIndex = heights.indexOf(peak)
+	const peakIndex = heights.indexOf(Math.max(...heights))
 
 	const before = heights.slice(0, peakIndex)
-	const after = heights.slice(peakIndex + 1, heights.length)
+	const after = heights.slice(peakIndex + 1)
 
-	const hasAscending = before.length > 0
-	const hasDescending = after.length > 0
+	const ascending = before.slice(1).every((h, i) => h >= before[i])
+	const descending = after.slice(1).every((h, i) => h <= after[i])
 
-	const ascendingSorted = before.slice(1).every((h, i) => h >= before[i])
-	const descendingSorted = after.slice(1).every((h, i) => h <= after[i])
-
-	return hasAscending && hasDescending && ascendingSorted && descendingSorted
+	return before.length > 0 && after.length > 0 && ascending && descending
 }
+
+// score: 260

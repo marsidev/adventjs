@@ -1,12 +1,9 @@
 export function countTime(leds) {
-	let changes = 0
-
-	leds.some(() => {
+	return leds.reduce(acc => {
 		const hasZeros = leds.includes(0)
-		changes += +hasZeros
 		leds = leds.map((led, idx) => +leds.at(idx - 1) || led)
-		return !hasZeros
-	})
-
-	return changes * 7
+		return acc + +hasZeros * 7
+	}, 0)
 }
+
+// score: 160
