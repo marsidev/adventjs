@@ -4,15 +4,15 @@
 
 Here you can find my solutions for each puzzle. 😉
 
-| Chalenge | Problem              | Solution             |
-| -------- | -------------------- | -------------------- |
-| 1        | [Here](01/README.md) | [Here](01/index.mjs) |
-| 2        | [Here](02/README.md) | [Here](02/index.mjs) |
-| 3        | [Here](03/README.md) | [Here](03/index.mjs) |
-| 4        | [Here](04/README.md) | [Here](04/index.mjs) |
-| 5        | [Here](05/README.md) | [Here](05/index.mjs) |
-| 6        | [Here](06/README.md) | [Here](06/index.mjs) |
-| 7        | [Here](07/README.md) | [Here](07/index.mjs) |
-| 8        | [Here](08/README.md) | [Here](08/index.mjs) |
-| 9        | [Here](09/README.md) | [Here](09/index.mjs) |
-| 10       | [Here](10/README.md) | [Here](10/index.mjs) |
+| Challenge | Problem              | Solution             |
+| --------- | -------------------- | -------------------- |
+| 1         | [Here](01/README.md) | [Here](01/index.mjs) |
+| 2         | [Here](02/README.md) | [Here](02/index.mjs) |
+| 3         | [Here](03/README.md) | [Here](03/index.mjs) |
+| 4         | [Here](04/README.md) | [Here](04/index.mjs) |
+| 5         | [Here](05/README.md) | [Here](05/index.mjs) |
+| 6         | [Here](06/README.md) | [Here](06/index.mjs) |
+| 7         | [Here](07/README.md) | [Here](07/index.mjs) |
+| 8         | [Here](08/README.md) | [Here](08/index.mjs) |
+| 9         | [Here](09/README.md) | [Here](09/index.mjs) |
+| 10        | [Here](10/README.md) | [Here](10/index.mjs) |
