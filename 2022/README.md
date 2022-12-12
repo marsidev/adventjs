@@ -17,3 +17,4 @@ Here you can find my solutions for each puzzle. 😉
 | 9         | [Here](09/README.md) | [Here](09/index.mjs) |
 | 10        | [Here](10/README.md) | [Here](10/index.mjs) |
 | 11        | [Here](11/README.md) | [Here](11/index.mjs) |
+| 12        | [Here](12/README.md) | [Here](12/index.mjs) |
