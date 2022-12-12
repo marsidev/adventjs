@@ -1,4 +1,4 @@
-# Reto #10: Papá Noel es Scrum Master
+# Reto #11: Papá Noel es Scrum Master
 
 Papa Noel está un poco preocupado porque los preparativos están llevando mucho tiempo. Hace poco se ha sacado una certificación de Scrum y ha decidido usar la metodología para organizar el trabajo de sus elfos.
 
