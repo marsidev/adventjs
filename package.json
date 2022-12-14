@@ -6,29 +6,30 @@
 	"type": "module",
 	"private": true,
 	"scripts": {
+		"2021": "node 2021",
+		"2022": "node 2022",
 		"lint": "eslint . --ext .js,.mjs,.ts,.mts",
 		"lint:fix": "eslint . --ext .js,.mjs,.ts,.mts --fix",
-		"tsc": "tsc",
-		"2021": "node 2021",
-		"2022": "node 2022"
+		"tsc": "tsc"
 	},
 	"devDependencies": {
-		"@typescript-eslint/eslint-plugin": "latest",
-		"@typescript-eslint/parser": "latest",
 		"eslint": "latest",
 		"eslint-config-marsi": "latest",
 		"eslint-config-prettier": "latest",
 		"eslint-config-standard": "latest",
-		"eslint-import-resolver-typescript": "latest",
 		"eslint-plugin-import": "latest",
 		"eslint-plugin-n": "latest",
 		"eslint-plugin-promise": "latest",
-		"typescript": "4.9.3"
+		"vitest": "0.25.8"
 	},
 	"pnpm": {
 		"peerDependencyRules": {
 			"ignoreMissing": [
-				"eslint-plugin-react"
+				"eslint-plugin-react",
+				"typescript",
+				"eslint-import-resolver-typescript",
+				"@typescript-eslint/parser",
+				"@typescript-eslint/eslint-plugin"
 			]
 		}
 	}
