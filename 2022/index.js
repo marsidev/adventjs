@@ -10,6 +10,7 @@ import { countTime } from './09/index.mjs'
 import { checkJump } from './10/index.mjs'
 import { getCompleted } from './11/index.mjs'
 import { selectSleigh } from './12/index.mjs'
+import { getFilesToBackup } from './13/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -52,3 +53,15 @@ const sleighs = [
 	{ name: 'Midu', consumption: 1 }
 ]
 console.log('Reto 12: ', selectSleigh(distance, sleighs))
+
+console.log()
+console.log(
+	'Reto 13: ',
+	getFilesToBackup(1546300800, [
+		[3, 1546301100],
+		[2, 1546300800],
+		[1, 1546300800],
+		[1, 1546300900],
+		[1, 1546301000]
+	])
+)
