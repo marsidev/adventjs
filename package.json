@@ -9,8 +9,7 @@
 		"2021": "node 2021",
 		"2022": "node 2022",
 		"lint": "eslint . --ext .js,.mjs,.ts,.mts",
-		"lint:fix": "eslint . --ext .js,.mjs,.ts,.mts --fix",
-		"tsc": "tsc"
+		"lint:fix": "eslint . --ext .js,.mjs,.ts,.mts --fix"
 	},
 	"devDependencies": {
 		"eslint": "latest",
