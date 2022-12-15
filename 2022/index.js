@@ -11,6 +11,7 @@ import { checkJump } from './10/index.mjs'
 import { getCompleted } from './11/index.mjs'
 import { selectSleigh } from './12/index.mjs'
 import { getFilesToBackup } from './13/index.mjs'
+import { getOptimalPath } from './14/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -65,3 +66,6 @@ console.log(
 		[1, 1546301000]
 	])
 )
+
+console.log()
+console.log('Reto 14: ', getOptimalPath([[1], [1, 5], [7, 5, 8], [9, 4, 1, 3]]))
