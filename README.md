@@ -36,7 +36,7 @@ Here you can find my solutions for all the puzzles in every edition.
 |  12   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/12) | [See](2022/12/README.md) | [See](2022/12/index.mjs) |
 |  13   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/13) | [See](2022/13/README.md) | [See](2022/13/index.mjs) |
 |  14   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/14) | [See](2022/14/README.md) | [See](2022/14/index.mjs) |
-|  15   |       -        |                        TBD                         |           TBD            |           TBD            |
+|  15   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/15) | [See](2022/15/README.md) | [See](2022/15/index.mjs) |
 |  16   |       -        |                        TBD                         |           TBD            |           TBD            |
 |  17   |       -        |                        TBD                         |           TBD            |           TBD            |
 |  18   |       -        |                        TBD                         |           TBD            |           TBD            |

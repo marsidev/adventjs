@@ -12,6 +12,7 @@ import { getCompleted } from './11/index.mjs'
 import { selectSleigh } from './12/index.mjs'
 import { getFilesToBackup } from './13/index.mjs'
 import { getOptimalPath } from './14/index.mjs'
+import { decorateTree } from './15/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -69,3 +70,6 @@ console.log(
 
 console.log()
 console.log('Reto 14: ', getOptimalPath([[1], [1, 5], [7, 5, 8], [9, 4, 1, 3]]))
+
+console.log()
+console.log('Reto 15: ', decorateTree('B P R P'))
