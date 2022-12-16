@@ -14,38 +14,38 @@ Here you can find my solutions for all the puzzles in every edition.
 
 ## 📆 2022 Edition
 
-<details hide>
+<details open>
 
 <summary>Show / Hide</summary>
 
 ### 🎮️ Challenges
 
-|   #   | Difficulty[^1] |                        Link                        |       Description        |         Solution         |
-| :---: | :------------: | :------------------------------------------------: | :----------------------: | :----------------------: |
-|  01   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/1)  | [See](2022/01/README.md) | [See](2022/01/index.mjs) |
-|  02   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/2)  | [See](2022/02/README.md) | [See](2022/02/index.mjs) |
-|  03   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/3)  | [See](2022/03/README.md) | [See](2022/03/index.mjs) |
-|  04   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/4)  | [See](2022/04/README.md) | [See](2022/04/index.mjs) |
-|  05   |       🔴        | [Open](https://adventjs.dev/es/challenges/2022/5)  | [See](2022/05/README.md) | [See](2022/05/index.mjs) |
-|  06   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/6)  | [See](2022/06/README.md) | [See](2022/06/index.mjs) |
-|  07   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/7)  | [See](2022/07/README.md) | [See](2022/07/index.mjs) |
-|  08   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/8)  | [See](2022/08/README.md) | [See](2022/08/index.mjs) |
-|  09   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/9)  | [See](2022/09/README.md) | [See](2022/09/index.mjs) |
-|  10   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/10) | [See](2022/10/README.md) | [See](2022/10/index.mjs) |
-|  11   |       🔴        | [Open](https://adventjs.dev/es/challenges/2022/11) | [See](2022/11/README.md) | [See](2022/11/index.mjs) |
-|  12   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/12) | [See](2022/12/README.md) | [See](2022/12/index.mjs) |
-|  13   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/13) | [See](2022/13/README.md) | [See](2022/13/index.mjs) |
-|  14   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/14) | [See](2022/14/README.md) | [See](2022/14/index.mjs) |
-|  15   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/15) | [See](2022/15/README.md) | [See](2022/15/index.mjs) |
-|  16   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  17   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  18   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  19   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  20   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  21   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  22   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  23   |       -        |                        TBD                         |           TBD            |           TBD            |
-|  24   |       -        |                        TBD                         |           TBD            |           TBD            |
+|   #   | Difficulty[^1] |                        Link                        |       Description        |         Solution         |   Score    |
+| :---: | :------------: | :------------------------------------------------: | :----------------------: | :----------------------: | :--------: |
+|  01   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/1)  | [See](2022/01/README.md) | [See](2022/01/index.mjs) |   `131`    |
+|  02   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/2)  | [See](2022/02/README.md) | [See](2022/02/index.mjs) |   `121`    |
+|  03   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/3)  | [See](2022/03/README.md) | [See](2022/03/index.mjs) |   `164`    |
+|  04   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/4)  | [See](2022/04/README.md) | [See](2022/04/index.mjs) |   `154`    |
+|  05   |       🔴        | [Open](https://adventjs.dev/es/challenges/2022/5)  | [See](2022/05/README.md) | [See](2022/05/index.mjs) |   `170`    |
+|  06   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/6)  | [See](2022/06/README.md) | [See](2022/06/index.mjs) |   `200`    |
+|  07   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/7)  | [See](2022/07/README.md) | [See](2022/07/index.mjs) |   `200`    |
+|  08   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/8)  | [See](2022/08/README.md) | [See](2022/08/index.mjs) |   `200`    |
+|  09   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/9)  | [See](2022/09/README.md) | [See](2022/09/index.mjs) |   `160`    |
+|  10   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/10) | [See](2022/10/README.md) | [See](2022/10/index.mjs) |   `260`    |
+|  11   |       🔴        | [Open](https://adventjs.dev/es/challenges/2022/11) | [See](2022/11/README.md) | [See](2022/11/index.mjs) |   `360`    |
+|  12   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/12) | [See](2022/12/README.md) | [See](2022/12/index.mjs) | `300\|400` |
+|  13   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/13) | [See](2022/13/README.md) | [See](2022/13/index.mjs) |   `300`    |
+|  14   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/14) | [See](2022/14/README.md) | [See](2022/14/index.mjs) |   `100`    |
+|  15   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/15) | [See](2022/15/README.md) | [See](2022/15/index.mjs) |   `200`    |
+|  16   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  17   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  18   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  19   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  20   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  21   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  22   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  23   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  24   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
 
 </details>
 

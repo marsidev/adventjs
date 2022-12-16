@@ -27,3 +27,5 @@ export function decorateTree(base) {
 		.reverse()
 		.map(v => v.join(' '))
 }
+
+// score: 200
