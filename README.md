@@ -36,8 +36,8 @@ Here you can find my solutions for all the puzzles in every edition.
 |  12   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/12) | [See](2022/12/README.md) | [See](2022/12/index.mjs) | `300\|400` |
 |  13   |       🟢        | [Open](https://adventjs.dev/es/challenges/2022/13) | [See](2022/13/README.md) | [See](2022/13/index.mjs) |   `300`    |
 |  14   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/14) | [See](2022/14/README.md) | [See](2022/14/index.mjs) |   `100`    |
-|  15   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/15) | [See](2022/15/README.md) | [See](2022/15/index.mjs) |   `200`    |
-|  16   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
+|  15   |       🟠        | [Open](https://adventjs.dev/es/challenges/2022/15) | [See](2022/15/README.md) | [See](2022/15/index.mjs) | `200\|300` |
+|  16   |       🔴        | [Open](https://adventjs.dev/es/challenges/2022/16) | [See](2022/16/README.md) | [See](2022/16/index.mjs) |   `300`    |
 |  17   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
 |  18   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |
 |  19   |       -        |                        TBD                         |           TBD            |           TBD            |    TBD     |

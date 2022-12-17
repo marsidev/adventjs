@@ -13,6 +13,7 @@ import { selectSleigh } from './12/index.mjs'
 import { getFilesToBackup } from './13/index.mjs'
 import { getOptimalPath } from './14/index.mjs'
 import { decorateTree } from './15/index.mjs'
+import { fixLetter } from './16/index.mjs'
 
 console.log('Reto 1: ', wrapping(['cat', 'game', 'socks']))
 console.log()
@@ -73,3 +74,9 @@ console.log('Reto 14: ', getOptimalPath([[1], [1, 5], [7, 5, 8], [9, 4, 1, 3]]))
 
 console.log()
 console.log('Reto 15: ', decorateTree('B P R P'))
+
+console.log()
+console.log(
+	'Reto 16: ',
+	fixLetter(' hello,  how are you??     do you know if santa claus exists?  i really hope he does!  bye  ')
+)
